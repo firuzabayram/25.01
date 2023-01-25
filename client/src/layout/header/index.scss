@@ -1,0 +1,41 @@
+.umumi{
+    background: rgb(255, 255, 255);
+    display: flex;
+    width: 80%;
+   
+    .sagnavbar{
+  
+padding-top: 40px;
+padding-left: 25%;
+    }
+    h1{
+        padding-top: 15px;
+        padding-left: 15px;
+    }
+    .solnavbar{
+
+display: flex;
+justify-content: space-around;
+padding: 50px;
+.link1{
+    padding-right: 20px;
+    text-decoration: none;
+}
+    }
+    .sarihisse{
+        display: flex;
+        justify-content: space-around;
+background: rgb(230, 192, 65);
+width: 300px;
+height: 100px;
+padding-top: 20px;
+img{
+    width: 50px;
+    padding: 20px;
+}
+h3{
+    color: white;
+    padding-top: 20px;
+}
+    }
+}
